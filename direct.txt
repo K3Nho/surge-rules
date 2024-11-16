@@ -1,3 +1,4 @@
 DOMAIN-KEYWORD,pilipili
 DOMAIN,oaifree.com
+DOMAIN,alphatvapp.top
 DOMAIN,awatv.de
